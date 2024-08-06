@@ -4,7 +4,7 @@ package cn.ts.kit.wechat.pay
  *
  * @author tomsean
  */
-class WechatPayClient {
+class WechatPay {
 
     companion object {
         val HOST = "https://api.mch.weixin.qq.com" //支付网关
